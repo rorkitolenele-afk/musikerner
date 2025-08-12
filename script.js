@@ -22,19 +22,19 @@ $(function () {
     "Proxy (Original Mix)"
   ];
   const trackNames = [
-    "Alex Skrindo - Me & You",
-    "Skylike - Dawn",
-    "Kaaze - Electro Boy",
+    "macan",
+    "macan- Dawn",
+    "Kaaze - macan",
     "Jordan Schor - Home",
-    "Martin Garrix - Proxy"
+    "Martin macan- Proxy"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
+    "https://docs.google.com/uc?export=download&id=1LnxN6Z48xrrexxThdCjg9AdfW05fDWwE",
+    "https://docs.google.com/uc?export=download&id=1fGjUc6iot3D-c-ouD1vSTnn5_pDrVSs7",
+    "https://docs.google.com/uc?export=download&id=1W5mfUpo53UBDpdRxOYLgbcOLZC2xiAda",
+    "https://docs.google.com/uc?export=download&id=1W5mfUpo53UBDpdRxOYLgbcOLZC2xiAda",
+    "https://docs.google.com/uc?export=download&id=1FPtQiHAxx_U2ICLiLaPi0RiPyU7XMSZX"
   ];
 
   let bgArtworkUrl,
